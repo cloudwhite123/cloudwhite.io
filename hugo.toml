@@ -1,9 +1,19 @@
 baseURL = 'https://cloudwhite123.github.io/cloudwhite.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Project'
-theme = 'hugo-blog-awesome'  # 務必檢查這裡
+title = 'CloudWhite Tech Blog'
+theme = 'hugo-blog-awesome'
+#disableKinds = ["RSS"]
+[author]
+    name = "CloudWhite"
+    email = "your-email@example.com"
+
 
 [params]
-    # 該主題建議的參數，若為空有時會導致渲染異常
-    description = "Blog"
-    author = "CloudWhite"
+    description = "SSD Firmware Security Engineer"
+    
+    # 錯誤寫法：author = "CloudWhite"
+    # 正確寫法：必須是物件格式
+    [params.author]
+        name = "CloudWhite"
+        bio = "SSD Firmware Security Engineer / Tech Enthusiast"
+        avatar = "" # 如果還沒有圖片，可以先隨便填一個路徑或留空串
