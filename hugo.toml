@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://cloudwhite123.github.io/cloudwhite.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
+theme = 'hugo-blog-awesome'  # 務必檢查這裡
