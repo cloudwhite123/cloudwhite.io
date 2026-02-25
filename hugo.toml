@@ -2,3 +2,8 @@ baseURL = 'https://cloudwhite123.github.io/cloudwhite.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'hugo-blog-awesome'  # 務必檢查這裡
+
+[params]
+    # 該主題建議的參數，若為空有時會導致渲染異常
+    description = "Blog"
+    author = "CloudWhite"
