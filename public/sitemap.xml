@@ -2,11 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cloudwhite.io/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/cloudwhite.io/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cloudwhite.io/posts/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cloudwhite.io/posts/my-first-post/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cloudwhite.io/posts/%E7%8D%BB%E7%B5%A6%E9%98%BF%E7%88%BE%E5%90%89%E5%84%82%E7%9A%84%E8%8A%B1%E6%9D%9F/</loc>
+    <lastmod>2026-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cloudwhite.io/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/cloudwhite.io/tags/</loc>
   </url>
